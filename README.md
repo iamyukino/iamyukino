@@ -13,4 +13,4 @@ Welcome to follow me.
 </p>  
 
 I'm currently imitating pygame to implement a graphics library called mclib in C++.  
-This is the website I am learning and writing.
+The above image is a link to my website where I record my studies and articles.
