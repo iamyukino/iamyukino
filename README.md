@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi 👋 
 
-<!--
-**iamyukino/iamyukino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Yukino Momohara, a student who love C++ & Typescript.
 
-Here are some ideas to get you started:
+I' m keen on self-studying features of c++ standard and wrote dozens of articles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Welcome to follow me.
+
+
+I'm currently imitating pygame to implement a graphics library called mclib in C++.  
+This is the website I am learning and writing.
+<p>
+    <a href="https://iamyukino.github.io/">
+        <img height="200" src="https://iamyukino.github.io/index/images/igloo-logo.png">
+    </a>
+</p>
